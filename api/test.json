@@ -1,0 +1,74 @@
+[
+   {
+      "id":89760,
+      "name":"Summer Tower Motel",
+      "address":"10853 Bartee Ave, Mission Hills, CA, 91345",
+      "stars":3.0,
+      "distance":295.92,
+      "suites":"96 119 82 68 52"
+   },
+   {
+      "id":77284,
+      "name":"Obsidian Keep Hotel",
+      "address":"54 New York Ave, Lakewood, NY, 14750",
+      "stars":5.0,
+      "distance":673.18,
+      "suites":"43 75 46 73 73 4 147"
+   },
+   {
+      "id":88473,
+      "name":"Saffron Spa Hotel & Spa",
+      "address":"1802 Kiowa Trl, Dalhart, TX, 79022",
+      "stars":2.5,
+      "distance":93.11,
+      "suites":"1"
+   },
+   {
+      "id":4224,
+      "name":"Antique Resort & Spa",
+      "address":"2267 Rosemoore Walk",
+      "stars":3.5,
+      "distance":19.16,
+      "suites":"76 12"
+   },
+   {
+      "id":75463,
+      "name":"Pinnacle Hotel",
+      "address":"223 S Fraley St",
+      "stars":4.0,
+      "distance":133.31,
+      "suites":"20 10 13"
+   },
+   {
+      "id":31499,
+      "name":"Vortex",
+      "address":"2267 Rosemoore Walk, Marietta, 30062",
+      "stars":5.0,
+      "distance":95.13,
+      "suites":"8 6 4 9 18 8 9 27 9"
+   },
+   {
+      "id":68240,
+      "name":"Stargaze Resort",
+      "address":"17816 19th Ave SE",
+      "stars":4.5,
+      "distance":66.1,
+      "suites":"8 10 23 3"
+   },
+   {
+      "id":321544,
+      "name":"King Yaztromo",
+      "address":"Po Box 1635, California",
+      "stars":5.0,
+      "distance":23.1,
+      "suites":"7 9 1"
+   },
+   {
+      "id":54353,
+      "name":"Latham Hotel-Georgetown",
+      "address":"2660 Larimer St, Denver, 80205",
+      "stars":5.0,
+      "distance":1.5,
+      "suites":"17 1 7"
+   }
+]

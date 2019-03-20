@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hotels</string>
+
+    <string name="intent_key">hotel_id</string>
+
+    <string name="detail_title">Detail</string>
+    <string name="detail_distance">%s km from center</string>
+
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_by_distance">Sort By Distance</string>
+    <string name="action_sort_by_rooms">Sort By Rooms</string>
+
+    <string name="item_rooms">Rooms: %s</string>
+    <string name="item_distance">%s km</string>
+
+    <string name="error">Data Loading Error</string>
+</resources>
