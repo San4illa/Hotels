@@ -1,5 +1,4 @@
 Hotels
-
 ==============
 
 Simple android app developed on Kotlin, demonstrating the use of RxJava 2, Retrofit 2 and Picasso and implementing MVP.
